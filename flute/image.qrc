@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>do.png</file>
+        <file>key.png</file>
+        <file>la.png</file>
+        <file>mi.png</file>
+        <file>re.png</file>
+        <file>si.png</file>
+        <file>sol.png</file>
+        <file>fa.png</file>
+        <file>do1.png</file>
+        <file>do1_flute.png</file>
+        <file>do2_flute.png</file>
+        <file>fa_flute.png</file>
+        <file>la_flute.png</file>
+        <file>mi_flute.png</file>
+        <file>re_flute.png</file>
+        <file>si_flute.png</file>
+        <file>sol_flute.png</file>
+        <file>do_up.png</file>
+        <file>fa_up.png</file>
+        <file>la_up.png</file>
+        <file>mi_up.png</file>
+        <file>re_up.png</file>
+        <file>si_up.png</file>
+        <file>sol_up.png</file>
+        <file>do_up_flute.png</file>
+        <file>fa_up_flute.png</file>
+        <file>la_up_flute.png</file>
+        <file>mi_up_flute.png</file>
+        <file>re_up_flute.png</file>
+        <file>si_up_flute.png</file>
+        <file>sol_up_flute.png</file>
+    </qresource>
+</RCC>
